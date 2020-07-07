@@ -6,6 +6,7 @@
 - Add `PATH`
   - `C:\Program Files\YOUR_PCL\bin` (e.g. `C:\Program Files\PCL 1.11.0\bin`)
   - `C:\Program Files\YOUR_PCL\3rdParty\VTK\bin` (e.g. `C:\Program Files\PCL 1.11.0\3rdParty\VTK\bin`)
+  - `C:\Program Files\OpenNI2\Redist` (maybe you need to run `C:\Program Files\YOUR_PCL\3rdParty\OpenNI2\OpenNI-Windows-x64-2.2.msi`)
 - Restart your PC
 - Run following commands
 
