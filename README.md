@@ -1,5 +1,10 @@
 # pcl_sample
 
+## About
+![demo](https://github.com/j20232/pcl_sample/blob/master/assets/demo.gif)
+
+tiny PCL sample with cmake
+
 ## installation
 
 - Install PCL on your PC from https://github.com/PointCloudLibrary/pcl/releases
