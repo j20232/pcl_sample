@@ -7,6 +7,8 @@ tiny PCL sample with cmake
 
 ## installation
 
+The following settings works only on Windows, so please change them properly if you use other OSs.
+
 - Install PCL on your PC from https://github.com/PointCloudLibrary/pcl/releases
 - Add `PATH`
   - `C:\Program Files\YOUR_PCL\bin` (e.g. `C:\Program Files\PCL 1.11.0\bin`)
